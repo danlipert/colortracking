@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "name":"Hat",
+            "lowerLimit":{
+                "h":90,
+                "s":0,
+                "v":0
+            },
+            "upperLimit":{
+                "h":120,
+                "s":255,
+                "v":255
+            }
+        },
+        {
+            "name":"Banana",
+            "lowerLimit":{
+                "h":20,
+                "s":100,
+                "v":100
+            },
+            "upperLimit":{
+                "h":30,
+                "s":255,
+                "v":255
+            }
+        }
+    ]
+}
